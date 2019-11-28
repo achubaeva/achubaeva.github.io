@@ -1,13 +1,26 @@
 #prof_img {
-    max-width:50%;
+    max-width:80%;
     height:auto;
 }
 
-#proj_img {
+#proj_img_model {
     max-width:50%;
     height:auto;
     display: block;
     margin-left: auto;
     margin-right: auto
 
+}
+
+#proj_img_calc {
+    max-width:30%;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+h3 {
+    text-align: center !important;
 }
