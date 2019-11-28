@@ -1,17 +1,4 @@
-#wrapper {
-	background: silver;
-	width: 1200px;
-	margin: 0 auto;
-}
-
-#left-column {
-	background: yellow;
-	width: 300px;
-	float: left;
-}
- 
-#right-column {
-	background: teal;
-	width: 900px;
-	margin-left: 300px;
+img {
+    max-width:50%;
+    height:auto;
 }
