@@ -1,4 +1,11 @@
-img {
+#prof_img {
     max-width:50%;
     height:auto;
+}
+
+#proj_img {
+    max-width:50%;
+    height:auto;
+    text-align: center;
+
 }
