@@ -16,7 +16,7 @@
 }
 
 #proj_img_calc {
-    max-width:50%;
+    max-width:30%;
     height:auto;
     display: block;
     margin-left: auto;
@@ -25,5 +25,9 @@
 }
 
 h3 {
+    text-align: center;
+}
+
+h4 {
     text-align: center;
 }
