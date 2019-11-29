@@ -16,8 +16,8 @@
 }
 
 
-h3 h5 {
-    text-align: center;
+h5 {
+    text-align: center !important;
 }
 
 .date {
@@ -26,5 +26,5 @@ h3 h5 {
 }
 
 .footer {
-    text-align: center;
+    text-align: center !important;
 }
