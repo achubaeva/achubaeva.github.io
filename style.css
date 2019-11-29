@@ -6,29 +6,21 @@
     margin-right: auto !important;
 }
 
-#proj_img_model {
-    max-width:50%;
-    height:auto;
+.proj_img {
+    max-height: 5px;
+    width:auto;
     display: block;
     margin-left: auto;
     margin-right: auto
 
 }
 
-#proj_img_calc {
-    max-width:35%;
-    height:auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-
-}
 
 h3 {
     text-align: center;
 }
 
-#date {
+.date {
     text-align: center;
     font-weight: bold;
 }
