@@ -15,7 +15,6 @@
 
 }
 
-
 h5 {
     text-align: center !important;
 }
@@ -27,4 +26,8 @@ h5 {
 
 .footer {
     text-align: center !important;
+}
+
+.jumbotron{
+    background-color: #ccddff;
 }
