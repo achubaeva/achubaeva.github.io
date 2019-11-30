@@ -24,11 +24,11 @@ h5 {
     font-weight: bold;
 }
 
-.footer {
+.footer-copyright {
     text-align: center !important;
+    background-color: #4682B4;
 }
 
 .jumbotron{
     background-color: #4682B4;
-    font: white !important; 
 }
